@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/typescript-generator/static/css/main.1e90c2fa.css",
+    "main.js": "/typescript-generator/static/js/main.3fe92fe1.js",
+    "static/js/787.8aa96a9a.chunk.js": "/typescript-generator/static/js/787.8aa96a9a.chunk.js",
+    "index.html": "/typescript-generator/index.html",
+    "main.1e90c2fa.css.map": "/typescript-generator/static/css/main.1e90c2fa.css.map",
+    "main.3fe92fe1.js.map": "/typescript-generator/static/js/main.3fe92fe1.js.map",
+    "787.8aa96a9a.chunk.js.map": "/typescript-generator/static/js/787.8aa96a9a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1e90c2fa.css",
+    "static/js/main.3fe92fe1.js"
+  ]
+}
